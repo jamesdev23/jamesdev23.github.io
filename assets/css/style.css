@@ -1,3 +1,10 @@
+/**
+* Template Name: DevFolio - v4.10.0
+* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1460,7 +1467,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #333333;
+  background: #0062d3;
 }
 
 footer .copyright {

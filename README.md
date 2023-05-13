@@ -1,3 +1,5 @@
 # jamesdev23.github.io
 
-Page Under Construction
+James Nico Rara's Portfolio Page
+(Made in Github Pages)
+

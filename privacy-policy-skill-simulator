@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - Skill Simulator</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+
+    <h2>Effective date: [Date]</h2>
+
+    <p>This Privacy Policy explains how Skill Simulator ("we," "us," or "our") collects, uses, and discloses personal information when you use our mobile application ("the App").</p>
+
+    <h3>1. Information We Collect</h3>
+
+    <h4>1.1 Personal Information:</h4>
+    <ul>
+        <li>[Specify the types of personal information you collect, such as name, email address, etc.]</li>
+        <li>[Indicate how this information is collected, whether through user input, device permissions, etc.]</li>
+    </ul>
+
+    <h4>1.2 Usage Data:</h4>
+    <ul>
+        <li>[Describe the types of non-personal information collected, such as device information, app usage statistics, etc.]</li>
+        <li>[Explain how this data is collected, including the use of analytics services or tracking technologies.]</li>
+    </ul>
+
+    <h3>2. Use of Information</h3>
+
+    <h4>2.1 Personal Information:</h4>
+    <ul>
+        <li>[Specify how personal information is used, such as for user authentication, account management, etc.]</li>
+        <li>[Mention any third parties with whom this information may be shared, such as service providers or business partners.]</li>
+    </ul>
+
+    <h4>2.2 Usage Data:</h4>
+    <ul>
+        <li>[Explain how non-personal information is utilized, such as for app improvement, analytics, or marketing purposes.]</li>
+        <li>[Indicate whether this data is shared with any third parties and for what purposes.]</li>
+    </ul>
+
+    <h3>3. Data Retention</h3>
+
+    <h4>3.1 Personal Information:</h4>
+    <ul>
+        <li>[Outline how long personal information is retained, whether it is stored indefinitely or for a specific period.]</li>
+        <li>[If applicable, mention any user preferences or options to delete or modify their personal information.]</li>
+    </ul>
+
+    <h4>3.2 Usage Data:</h4>
+    <ul>
+        <li>[Specify the duration for which non-personal information is retained and how it is anonymized or aggregated.]</li>
+    </ul>
+
+    <h3>4. Security</h3>
+
+    <h4>4.1 We take reasonable measures to protect the security of your personal information.</h4>
+    <ul>
+        <li>[Explain the security practices and safeguards implemented, such as encryption, access controls, etc.]</li>
+        <li>[Highlight that no method of transmission or storage is 100% secure and that users should also take precautions.]</li>
+    </ul>
+
+    <h3>5. Children's Privacy</h3>
+
+    <h4>5.1 The App is not intended for individuals under the age of 13.</h4>
+    <ul>
+        <li>[Explain any specific policies or measures taken to comply with children's privacy laws.]</li>
+    </ul>
+
+    <h3>6. Contact Us</h3>
+
+    <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [email address].</p>
+
+</body>
+</html>

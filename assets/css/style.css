@@ -1481,3 +1481,11 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+
+/* custom css */
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
